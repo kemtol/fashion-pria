@@ -1,0 +1,21 @@
+---
+layout: default
+---
+	
+<article class="container post">
+	<h1>{{ page.title }}</h1>
+	
+	<div class="date">
+	by {{ page.author }}<br/>
+	Written on {{ page.date | date: "%B %e, %Y" }}
+	</div>
+
+	<div class="entry">
+	{{ content }}
+	</div>
+</article>
+
+<style>
+	#hotdeal{padding-bottom:10rem}
+</style>
+{% include deals.html %}
