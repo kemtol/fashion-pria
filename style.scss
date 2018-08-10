@@ -194,7 +194,7 @@ h1,h2,h3,h4,h5,h6{
 	color:#000;
 }
 p,ul,blockquote{
-	color:#777;
+	color:#111;
 }
 
 /* Override */
@@ -230,12 +230,12 @@ body{
 	font-size:14px;
 	line-height:50px;
 	font-weight:900;
-	color:#fff;
-	background:#4c86fa;
+	color:#111;
+	background:gold;
 	text-transform:uppercase;
 	padding:0 30px;
-	border:2px solid #fff;
-	border-radius:25px;
+	border:1px solid #fff;
+	border-radius:5px;
 	text-align:center;
 	letter-spacing:0.1em;
 	transition:all .5s ease;
@@ -279,7 +279,7 @@ body{
 	padding-bottom:21px;
 }
 .section-head h4 span{
-	color:#4c86fa;
+	color:#000;
 }
 .section-head p{
 	color:#777;
