@@ -213,8 +213,8 @@ article ul{
 /* Common CSS */
 
 body{
-	padding-top:100px;
 }
+
 .no-padding{
 	padding:0;
 }
@@ -1280,7 +1280,6 @@ article.post{
 
 @media only screen and (max-width: 767px) {
 	body{
-		padding-top:7rem;
 	}
 	.parallax {
 		background-attachment: scroll !important;
