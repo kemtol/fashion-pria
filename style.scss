@@ -453,7 +453,7 @@ body{
 	margin:0;
 }
 .header-section .overlay{
-	padding:15rem 0;
+	padding:15rem 0 5rem 0;
 	max-width: 1600px;
 	margin: auto;
 }
@@ -493,7 +493,8 @@ body{
 /*.process-section*/
 
 .process-section{
-	padding:93px 0 53px;
+	padding: 5rem 0 10rem 0;
+	background: #2b44ff;
 	@include mobile{
 		padding:5rem 0 2rem;
 	}
@@ -502,19 +503,23 @@ body{
 	position:relative;
 	padding-left:80px;
 	margin-bottom:40px;
-}
-.single-process .icofont{
-	position:absolute;
-	top:0;
-	left:0;
-	font-size:60px;
-	color:#4c86fa;
-}
-.single-process h6{
-	text-transform:uppercase;
-	padding-bottom:5px;
-}
 
+	.icofont{
+		position:absolute;
+		top:0;
+		left:0;
+		font-size:60px;
+		color:#4c86fa;
+	}
+	h6{
+		text-transform:uppercase;
+		padding-bottom:5px;
+		color:#fff;
+	}
+	p{
+		color:#fff;
+	}
+}
 
 /*.deals-section*/
 
