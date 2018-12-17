@@ -226,19 +226,20 @@ body{
 	position:relative;
 }
 .button{
-	display:inline-block;
-	font-size:14px;
-	line-height:42px;
-	font-weight:900;
-	color:#111;
-	background:gold;
-	text-transform:uppercase;
-	padding:0 30px;
-	border:1px solid #fff;
-	border-radius:5px;
-	text-align:center;
-	letter-spacing:0.1em;
-	transition:all .5s ease;
+	display: inline-block;
+	font-size: 18px;
+	line-height: 42px;
+	font-weight: 900;
+	color: #fff;
+	background: #2b44ff;
+	text-transform: capitalize;
+	padding: 8px 30px;
+	border: 1px solid #fff;
+	border-radius: 50px;
+	text-align: center;
+	letter-spacing: 0px;
+	transition: all .5s ease;
+	font-family: georgia;
 }
 .button.sm{
 	font-size:13px;
@@ -248,8 +249,9 @@ body{
 }
 .button:focus,
 .button:hover{
-	color:#fff;
-	background:#000;
+	color:#2b44ff;
+	background:#fff;
+	border: 1px solid #2b44ff;
 }
 
 .alt-bg{
