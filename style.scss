@@ -63,7 +63,7 @@ h6,.h6-like{
 p,.p-like{
 	font-size:18px;
 	/*line-height:1.66em;*/
-	line-height:normal;
+	line-height:27px;
 	font-weight:300;
 	/*letter-spacing:0.05em;*/
 	letter-spacing:normal;
@@ -140,7 +140,11 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+    list-style-position: inside;
+    li{
+    	line-height:27px;
+    	font-size:16px;
+    }
 }
 blockquote, q {
 	quotes: none;
