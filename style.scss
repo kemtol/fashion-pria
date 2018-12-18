@@ -80,6 +80,10 @@ blockquote{
 	font-weight:300;
 	letter-spacing:0.05em;
 }
+.clearfix{
+	clear:both;
+}
+
 
 /*
 
@@ -272,18 +276,18 @@ body{
 	background:rgba(0,0,0,.5);
 }
 .section-head{
-	padding:124px 0 40px;
+	padding:5rem 0;
 	@include mobile{
 		padding:5rem 0 2.5rem
 	}
 }
 .section-head h4{
 	font-weight:900;
-	color:#000;
+	color:#2b44ff;
 	padding-bottom:21px;
 }
 .section-head h4 span{
-	color:#000;
+	color:#2b44ff;
 }
 .section-head p{
 	color:#777;
@@ -495,7 +499,7 @@ body{
 /*.process-section*/
 
 .process-section{
-	padding: 5rem 0 10rem 0;
+	padding: 5rem 0;
 	background: #2b44ff;
 	@include mobile{
 		padding:5rem 0 2rem;
