@@ -305,7 +305,12 @@ body{
 	padding-bottom: 1rem;
 	font-size: 18px;
 	position:relative;
-	left:-24px;
+	left:-36px;
+	i{
+    padding: 5px;
+    background: gold;
+    border-radius: 50%;
+	}
 	@include mobile{
 		left:0px;
 	}
