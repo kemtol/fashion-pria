@@ -14,7 +14,7 @@
 /* BASE RULES */
 /************/
 
-/*@import url(https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic);*/
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
 
 body,h1,h2,h3,h4,h5,h6,p,a,ul,pre,blockquote{
 	/*font-family: 'Lato', sans-serif;*/
@@ -149,6 +149,7 @@ ol, ul {
     	line-height:25px;
     	font-size:16px;
     	color: #2b44ff;
+    	font-family: 'Roboto', sans-serif;
     	a{
     		text-decoration:underline;
     		color: #2b44ff;
@@ -305,9 +306,6 @@ body{
 }
 .section-head h4 span{
 	color:#2b44ff;
-}
-.section-head p{
-	color:#777;
 }
 
 
