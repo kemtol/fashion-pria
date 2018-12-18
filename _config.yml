@@ -2,11 +2,17 @@
 title: Fashion Pria
 timezone: UTC
 collections:
+  banner:
+    title: Banner
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
+    output: true
+  vendor:
+    title: Vendor
     output: true
 name: Fashionpria.co.id
 description: Konsultasi Vendor, Konveksi Produk Pria, Jasa Photo dan Jasa Iklan IG
