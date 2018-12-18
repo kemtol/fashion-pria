@@ -304,6 +304,11 @@ body{
 	text-transform: uppercase;
 	padding-bottom: 1rem;
 	font-size: 18px;
+	position:relative;
+	left:-24px;
+	@include mobile{
+		left:0px;
+	}
 }
 .section-head h4 span{
 	color:#2b44ff;
