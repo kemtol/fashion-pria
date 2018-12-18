@@ -18,7 +18,7 @@
 
 body,h1,h2,h3,h4,h5,h6,p,a,ul,pre,blockquote{
 	/*font-family: 'Lato', sans-serif;*/
-	color:#2b44ff;
+	color:mediumblue;
 }
 body{
 	font-size:14px;
@@ -48,7 +48,7 @@ h4,.h4-like{
 	line-height:1em;
 	letter-spacing:0.05em;
 	font-weight:900;
-	color:#2b44ff;
+	color:mediumblue;
 	margin-bottom:1rem;
 }
 h5,.h5-like{
@@ -56,7 +56,7 @@ h5,.h5-like{
 	line-height:1em;
 	letter-spacing:0.05em;
 	font-weight:900;
-	color: #2b44ff;
+	color: mediumblue;
 }
 h6,.h6-like{
 	font-size:14px;
@@ -149,14 +149,14 @@ ol, ul {
     li{
     	line-height:25px;
     	font-size:16px;
-    	color: #2b44ff;
+    	color: mediumblue;
     	font-family: 'Roboto Mono', sans-serif;
     	a{
     		text-decoration:underline;
-    		color: #2b44ff;
+    		color: mediumblue;
     	}
     	a:hover{
-    		color: #2b44ff;
+    		color: mediumblue;
     		text-decoration:underline;
     	}
     }
