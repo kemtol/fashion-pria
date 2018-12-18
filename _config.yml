@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  vendor:
+    title: Vendor
+    output: true
 name: Fashionpria.co.id
 description: Konsultasi Vendor, Konveksi Produk Pria, Jasa Photo dan Jasa Iklan IG
   dan FB Online Shop Pria.
