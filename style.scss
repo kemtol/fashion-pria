@@ -145,7 +145,7 @@ body {
 }
 ol, ul {
     list-style-position: inside;
-    margin-bottom:2rem;
+    margin-bottom:5rem;
     li{
     	line-height:25px;
     	font-size:16px;
@@ -554,6 +554,12 @@ body{
 	padding-bottom:10rem;
 }
 
+/* edukasi-section */
+#edukasi-section{
+	.container{
+		border-top: 1px solid #2b44ff;
+	}
+}
 
 /*.testimonials-section*/
 
@@ -742,8 +748,7 @@ body{
 /*.footer-section*/
 
 .footer-section{
-	padding-top: 0 0 15rem 0;
-	padding-bottom:5rem;
+	padding: 5rem 0 15rem 0;
 	.container{
 	    border-top: 1px solid #2b44ff;
 	    padding-top:5rem;
