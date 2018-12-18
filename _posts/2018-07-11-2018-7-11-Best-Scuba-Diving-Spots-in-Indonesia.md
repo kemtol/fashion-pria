@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Best Scuba Diving Spots in Indonesia
-permalink: /best-scuba-diving-spots-in-indonesia.html
-author: Ivan Tumpak
+date: 2018-07-11 00:00:00 Z
+permalink: "/best-scuba-diving-spots-in-indonesia.html"
 categories:
 - journal
+layout: post
+author: Ivan Tumpak
 ---
 
 <img class="post-feat-img img-responsive" src="https://i.ytimg.com/vi/NoMHMxnAHW0/maxresdefault.jpg" />
