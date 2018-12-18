@@ -69,8 +69,8 @@ p,.p-like{
 	/*line-height:1.66em;*/
 	line-height:27px;
 	font-weight:300;
-	/*letter-spacing:0.05em;*/
-	letter-spacing:normal;
+	/*letter-spacing:0.05em;
+	letter-spacing:normal;*/
 }
 p.lead{
 	font-size:24px;
@@ -216,7 +216,7 @@ img{
 	max-width:100%;
 }
 h1,h2,h3,h4,h5,h6{
-	color: #2b44ff;
+	color: mediumblue;
 	margin-bottom:2rem;
 }
 
@@ -300,7 +300,7 @@ body{
 }
 .section-head h4{
 	font-weight: bold;
-	color: #2b44ff;
+	color: mediumblue;
 	text-transform: uppercase;
 	padding-bottom: 1rem;
 	font-size: 18px;
