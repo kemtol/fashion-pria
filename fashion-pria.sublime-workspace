@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"bakg",
+				"background-color"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"hidden",
+				"hidden-md"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tet-",
+				"text-align"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"owl",
+				"owl-review"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"tra",
+				"translateX()"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"padding",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rocktokom/fashion-pria",
+		"/Users/rocktokom/fashion-pria/_includes",
+		"/Users/rocktokom/fashion-pria/_layouts",
+		"/Users/rocktokom/fashion-pria/_posts",
+		"/Users/rocktokom/fashion-pria/_sass",
+		"/Users/rocktokom/fashion-pria/images",
+		"/Users/rocktokom/gabster"
+	],
+	"file_history":
+	[
+		"/Users/rocktokom/fashion-pria/_includes/directory.html",
+		"/Users/rocktokom/fashion-pria/style.scss",
+		"/Users/rocktokom/fashion-pria/_layouts/default.html",
+		"/Users/rocktokom/fashion-pria/_includes/header.html",
+		"/Users/rocktokom/fashion-pria/_includes/testimonials.html",
+		"/Users/rocktokom/fashion-pria/_layouts/post.html",
+		"/Users/rocktokom/fashion-pria/_layouts/page.html",
+		"/Users/rocktokom/fashion-pria/_includes/faq.html",
+		"/Users/rocktokom/fashion-pria/_includes/footer.html",
+		"/Users/rocktokom/Downloads/essence/index.html",
+		"/var/folders/tg/8g77qp0n3sn99qbh7y5c18zm0000gn/T/sublime-sftp-browse-1541655846/jolie-clothing.com/usr/share/nginx/html/JOLIE/wp-content/themes/storefront/assets/css/jolie/kemal.css",
+		"/Users/rocktokom/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/jolie-clothing.com",
+		"/Users/rocktokom/jekyllproject/legalservice/firebase.json",
+		"/Users/rocktokom/jekyllproject/legalservice/functions/index.js",
+		"/Users/rocktokom/jekyllproject/legalservice/Gemfile",
+		"/Users/rocktokom/jekyllproject/legalservice/_config.yml",
+		"/Users/rocktokom/jekyllproject/legalservice/_site/index.html",
+		"/Users/rocktokom/jekyllproject/legalservice/index.md",
+		"/Users/rocktokom/Downloads/apusajajam4.txt",
+		"/Users/rocktokom/Downloads/apusaja.html",
+		"/Users/rocktokom/_site/_config.yml",
+		"/Users/rocktokom/Downloads/analisan-server.txt",
+		"/Users/rocktokom/legalserviceindonesia/css/custom.css",
+		"/Users/rocktokom/legalserviceindonesia/index.html",
+		"/Users/rocktokom/LinkUp/css/style.css",
+		"/Users/rocktokom/LinkUp/header.html",
+		"/Users/rocktokom/Downloads/world.svg",
+		"/Users/rocktokom/LinkUp/index.html",
+		"/Users/rocktokom/LinkUp/contact.html",
+		"/Users/rocktokom/LinkUp/minify.html",
+		"/Users/rocktokom/LinkUp/tes.html",
+		"/Users/rocktokom/Downloads/web/graphs.html",
+		"/Users/rocktokom/Downloads/web/index.html",
+		"/Users/rocktokom/Downloads/web/faq.html",
+		"/Users/rocktokom/react-jktrentbus/src/App.css",
+		"/Users/rocktokom/react-jktrentbus/src/App.js",
+		"/Users/rocktokom/react-jktrentbus/src/firebase.js",
+		"/Users/rocktokom/Downloads/basecamp-footer.svg",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/functions.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product/filter-mobile.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product/filter-web.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/css/style.css",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product/form-product-detail.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/header-home.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product/banner.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product/category.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/BAK_filter-mobile.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/breadcrumb.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/breadcrumb-inline.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/footer.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/shop/media.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/shop.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/header.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/filter-mobile.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/home.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/shop/discover.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/shop/why.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/footer-home.php",
+		"/Users/rocktokom/devMSK/wp-content/themes/maskool-a/home.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product-filter.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product/modal-addedcart.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/modal-popcart.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/banner-penukaran.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/shop/slide.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/shop/slide-mobile.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/journal/jurnal-home.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/css/style.css",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/header.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/confirmation.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/cart_finish/confirmation.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/cart_finish.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/js/product-detil.js",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product/detail.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/product/detail.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/banner-penukaran.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/cart_finish.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/functions.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/category.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/register.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/IN PROCESSIN PROCESSmaskool-a/functions.php",
+		"/Users/rocktokom/femiinin-web/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/header-checkout.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/shop/discover-top.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/megamenu-top.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/megamenu-top.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/dashboard.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/dashboard.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/journal/banner.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/category-menu.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/category.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/shop.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/megamenu-journal.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/dashboard/banner.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/shop/journal-shop.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/product_category/banner.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/product/banner.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/modal-login.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/curated.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/js/script.js",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/shop/curated.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/product/curated.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/author.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/single.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/shop/discover.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/editor-pick.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/shop/sale.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/content/shop/new-arrival.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a/footer.php",
+		"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-b/shop.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/dashboard/credits.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/trending-mobile.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/dashboard/invite.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/dashboard/mydetail.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/dashboard/reminder.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/dashboard/voucher.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/dashboard/history.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/js/product.js",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/product_category/banner.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/banner-journal.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/wishlist/banner.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/wishlist.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/journal/banner-single.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/journal/trending-single.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/author.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/search/result-journal.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/search.php",
+		"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a/content/journal/banner.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a,/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a",
+			"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a",
+			"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a",
+			"/Users/rocktokom/femiinin-web/wp-content/themes",
+			"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a",
+			"/Users/rocktokom/femiinin-web/wp-content/themes/maskool-a",
+			"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a",
+			"/Users",
+			"/Users/rocktokom/maskoolin/production/wp-content/plugins/",
+			"/Users/rocktokom/maskoolin/production/wp-content/",
+			"/Users/rocktokom/maskoolin/production/wp-content/themes/maskool-a"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"list-style: none",
+			"list-style:none",
+			"ul",
+			"Shop",
+			"lato",
+			"process-sec",
+			"clearfix",
+			"faq-sec",
+			"\"img/",
+			"img/",
+			"/css/",
+			"/css/\n",
+			">`);\n",
+			"First thing first you can pay\n",
+			" </",
+			"woocommerce.css",
+			" ",
+			"16060",
+			"15803",
+			"6109",
+			"col-md",
+			"\"images",
+			"\"css",
+			"\"js",
+			"\"css",
+			"\"js",
+			"firebase.auth().onAuthStateChanged",
+			"if (user)",
+			"<!-- eof filter fit -->",
+			"background: #eee;width: 30%;height: 100%;",
+			"area",
+			".filter_mobile .filter_body_mobile",
+			".filter_mobile .filter_body_mobile .filter_holder .filter_panel",
+			"#header .navbar-white .container-fluid .row .navbar-right .row .user_nav .menu_right .acc_drop",
+			"ACTIVE FILTER",
+			"#xleftmenu",
+			".xlm.xlm1 ul li ul li:before",
+			"active filter",
+			"filter active",
+			"col-xs-12",
+			"xlm xlm1 col-xs-12",
+			"xlm col-xs-12 categories filter-size",
+			"active filters",
+			"share-list visible-sm visible-xs",
+			"href=\"https://www.facebook.com/sharer.php?u=ht",
+			".page.product-detail .wrapper_main .row .product-ctx .mid .estimated-delivery",
+			"ESTIMATED",
+			".section.a1",
+			"class=\"estimated-delivery\"",
+			"estimated-delivery",
+			"#footer .holder .row>div",
+			".section.a1",
+			".two-col-left .list .item .content-text h5 a",
+			"data-bg=\"<?",
+			"data-bg=\">?",
+			"xleftmenu",
+			"#header .navbar-white .container-fluid .row .navbar-left .burger",
+			"burger",
+			"col-xs-2 col-sm-1 visible-xs",
+			"col-xs-2 col-sm-1 visible-xs burger visible-sm",
+			"col-xs-1 col-sm-1 visible-xs burger visible-sm",
+			"#header .navbar-white .container-fluid .row .navbar-left .burger",
+			"filter_tabs",
+			"filter-tabs",
+			"aria",
+			".collapsing",
+			"collapsing",
+			".collapsing",
+			"collapsing",
+			".filter_mobile .filter_body_mobile .filter_holder .filter_panel",
+			".filter_mobile .filter_body_mobile .filter_holder .filter_panel .panel .panel-heading",
+			".two-col-left .list .item .content-text h5 a",
+			"panel-group filter_panel filter_tabs",
+			"asset",
+			"container-fluid holder",
+			"asset",
+			"class=\"mid\"",
+			"#filterMob",
+			".page.product-detail > .container-fluid",
+			"container-fluid list-inline breadcrumbs",
+			"sprite",
+			"lsearch",
+			"Metode Pembayaran",
+			"box-shadow",
+			"col-xs-6 col-sm-3 ",
+			"col-xs-6 col-sm-3 item",
+			"col-xs-6 col-sm-3 item right",
+			"<?",
+			"prism-widget",
+			"#footer",
+			"new media-home",
+			"#featBlockTop",
+			"DISCOVER",
+			"caption_lg h1Alt Gotham-Bold",
+			"#header .navbar-white .container-fluid .row .navbar-right .row .user_nav .menu_right.cart>a>span.cart_counter",
+			"cart_name hidden-xs",
+			"#header .navbar-white .container-fluid .row .navbar-right .row .user_nav .menu_right.cart>a>span",
+			"micro-list",
+			"#featBlockTop .a1 .col-sm-6, #featBlockTop .a1 .col-sm-12, #featBlockTop .a1 .col-sm-4",
+			"loadMicroBanner",
+			"micro",
+			"micro-list",
+			"micro",
+			"col-xs-10 gimmick",
+			"#header .navbar-white .container-fluid .row .navbar-right .row .user_nav .menu_right",
+			"Go to Shopping Cart",
+			"col-xs-7 col-sm-4 col-md-6 menu_right cart is_empty",
+			"col-xs-4 col-sm-4 col-md-6 menu_right account active hidden-xs on_account",
+			"#header .navbar-white .container-fluid .row .navbar-left .navbar-brand img",
+			"#header .navbar-white .container-fluid .row .navbar-left",
+			"burger visible",
+			"#header .navbar-white .container-fluid .row .navbar-left .navbar-brand",
+			"#header .navbar-white .container-fluid .row .navbar-right .row .user_nav .menu_right.cart>a:before",
+			"#header .navbar-white .container-fluid .row .navbar-right .row .user_nav .menu_right.account>a.has_account:before, #header .navbar-white .container-fluid .row .navbar-right .row .user_nav .menu_right.account>a.has_no_account:before",
+			"url(../assets/img/bag.png)",
+			"url(../assets/img/bag.png) no-repeat transparent",
+			"url(../assets/img/acc.png) no-repeat transparent",
+			"class=\"whyMskln",
+			"#header .navbar-white .megaHolder .section-category .category>li>a",
+			"80%",
+			"#header .navbar-white .megaHolder80%",
+			"#header .navbar-white .megaHolder",
+			"#header .promo-header",
+			"#header .navbar-white .megaHolder .section-category .category>li>a",
+			"#megaHolder",
+			"/* #megaHolder",
+			"/*#megaHolder",
+			"/*.megaHolder"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"{{ site.baseurl }}/img/",
+			"{{ site.baseurl }}/img/",
+			"{{ site.baseurl }}/css/",
+			"col-lg",
+			"\"{{ site.url }}/images",
+			"\"{{ site.url }}/css",
+			"\"{{ site.url }}/js",
+			"",
+			"<?php bloginfo('template_url'); ?>",
+			"",
+			"h3",
+			".page.shop-home-a .section.filter .col span.h5Filter",
+			".page.collection-page .section.filter .col span.h5Filter",
+			".page.brand-page .section.filter .col span.h5Filter",
+			"",
+			"text-center",
+			"class=\"text-center\"",
+			"col-xs-1",
+			"col-xs-9",
+			"col-xs-2",
+			"&rsquo;Times New Roman&rsquo;",
+			"&rsquo;Helvetica Neue&rsquo;",
+			"\"Helvetica Neue\"",
+			"deeppink"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/rocktokom/fashion-pria"
+		},
+		{
+			"path": "/Users/rocktokom/gabster"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
