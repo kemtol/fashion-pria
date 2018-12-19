@@ -561,7 +561,9 @@ body{
 /*.directory-section*/
 
 section{
-	padding:10rem 0;
+	.container{
+		padding:10rem 0;
+	}
 }
 
 .bt-blue{
