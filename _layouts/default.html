@@ -18,9 +18,9 @@
   </head>
 
   <body>
-	{% include navigation.html %}
-    	
 	{% if page.is_landing == true %}
+		{% include welcome.html %}
+		
 		{% include header.html %}
 
 		{% include directory.html %}
