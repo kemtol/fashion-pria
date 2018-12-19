@@ -17,11 +17,11 @@
 	<![endif]-->
   </head>
 
-  <body>
+  <body>	
 	{% if page.is_landing == true %}
-		{% include welcome.html %}
-		
 		{% include header.html %}
+
+		{% include welcome.html %}
 
 		{% include directory.html %}
 	{% endif %}
