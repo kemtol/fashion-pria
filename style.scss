@@ -71,7 +71,6 @@ p,.p-like{
 	font-weight:300;
 	/*letter-spacing:0.05em;
 	letter-spacing:normal;*/
-	margin-bottom:2rem;
 }
 p.lead{
 	font-size:24px;
@@ -214,7 +213,7 @@ a:hover {
 img{
 	max-width:100%;
 }
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6,p{
 	color: mediumblue;
 	margin-bottom:2rem;
 }
@@ -566,7 +565,7 @@ section{
 }
 
 .bt-blue{
-	border-top: 1px solid #2b44ff;
+	border-top: 1px dotted #2b44ff;
 }	
 
 /*.testimonials-section*/
