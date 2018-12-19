@@ -295,7 +295,7 @@ body{
 .section-head{
 	padding:5rem 0 2.5rem 0;
 	@include mobile{
-		padding:5rem 0 2.5rem
+		padding:2.5rem 0;
 	}
 }
 .section-head h4{
@@ -553,23 +553,20 @@ body{
 	}
 	p{
 		color:#fff;
-		font-size:18px;
+		font-size:17px;
 	}
 }
 
 
 /*.directory-section*/
 
-#directory-section{
-	padding-bottom:10rem;
+section{
+	padding:10rem 0;
 }
 
-/* edukasi-section */
-#edukasi-section{
-	.container{
-		border-top: 1px solid #2b44ff;
-	}
-}
+.bt-blue{
+	border-top: 1px solid #2b44ff;
+}	
 
 /*.testimonials-section*/
 
