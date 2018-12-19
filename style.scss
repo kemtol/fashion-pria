@@ -145,9 +145,10 @@ ol, ul {
     list-style-position: inside;
     margin-bottom:5rem;
     li{
-    	line-height:25px;
+    	line-height:24px;
     	font-size:16px;
     	color: mediumblue;
+    	margin-bottom:6px;
     	font-family: 'Roboto Mono', sans-serif;
     	a{
     		text-decoration:underline;
@@ -159,6 +160,10 @@ ol, ul {
     	}
     }
 }
+ol.l-none, ul.l-none{
+	list-style:none
+}
+
 blockquote, q {
 	quotes: none;
 }
