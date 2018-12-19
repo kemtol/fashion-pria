@@ -71,6 +71,7 @@ p,.p-like{
 	font-weight:300;
 	/*letter-spacing:0.05em;
 	letter-spacing:normal;*/
+	margin-bottom:2rem;
 }
 p.lead{
 	font-size:24px;
@@ -100,8 +101,6 @@ Version		:	1.0
 3. top-section
 4. header-section
 5. process-section
-6. deals-section
-7. offer-section
 8. spe-offer-section
 9. testimonials-section
 10. partners-section
@@ -293,7 +292,7 @@ body{
 	background:rgba(0,0,0,.5);
 }
 .section-head{
-	padding:5rem 0 2.5rem 0;
+	padding:0rem 0 2.5rem 0;
 	@include mobile{
 		padding:2.5rem 0;
 	}
@@ -562,7 +561,7 @@ body{
 
 section{
 	.container{
-		padding:10rem 0;
+		padding:5rem 0;
 	}
 }
 
