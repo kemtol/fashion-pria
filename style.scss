@@ -80,14 +80,6 @@ blockquote{
 	font-weight:300;
 	letter-spacing:0.05em;
 }
-a{
-	font-family: 'Roboto Mono', sans-serif;
-	color:mediumblue;
-	text-decoration:underline;
-}
-a:hover{
-	text-decoration:underline;
-}
 .clearfix{
 	clear:both;
 }
@@ -170,10 +162,10 @@ q:before, q:after {
 :focus {
 	outline: 0;
 }
-a:focus {
+/*a:focus {
 	outline: 0;
 	text-decoration: none;
-}
+}*/
 ins {
 	text-decoration: none;
 }
@@ -184,7 +176,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-a {
+/*a {
 	text-decoration:none;
 	-webkit-transition:all .5s ease;
 	-moz-transition:all .5s ease;
@@ -192,6 +184,14 @@ a {
 }
 a:hover {
 	text-decoration:none;
+}*/
+a{
+	font-family: 'Roboto Mono', sans-serif;
+	color:mediumblue;
+	text-decoration:underline;
+}
+a:hover{
+	text-decoration:underline;
 }
 
 ::-webkit-input-placeholder {
