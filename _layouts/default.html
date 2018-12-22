@@ -24,6 +24,8 @@
 		{% include welcome.html %}
 
 		{% include directory.html %}
+	{% else %}
+	  {% include navigation.html %}
 	{% endif %}
 
 	{{ content }} 
