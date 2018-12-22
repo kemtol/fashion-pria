@@ -28,7 +28,6 @@ body{
 h1,.h1-like{
 	font-size:72px;
 	line-height:1em;
-	letter-spacing:0.05em;
 	font-weight:900;
 }
 h2,.h2-like{
@@ -795,7 +794,7 @@ section{
 
 /* article */
 article.post{
-	margin:5rem auto;
+	margin:10rem auto;
 	
 	h1,h2,h3,p,iframe,ul{
 		margin-bottom:5rem;
@@ -805,7 +804,6 @@ article.post{
 		font-size: 42px;
 		margin-bottom: 2rem;
 		color: #111;
-		letter-spacing: 0.25rem;
 	}
 	h2{
 		font-size:32px;
@@ -831,16 +829,16 @@ article.post{
 		font-size: 16px;
 		margin-bottom: 2rem;
 		line-height: 24px;
-		padding: 1rem 2.5rem;
+		/*padding: 1rem 2.5rem;*/
 		color: #111;
 		letter-spacing: 0;
 	}
-	.post-feat-img{
+	/*.post-feat-img{
 		width: calc(100% + 10rem);
 		max-width: calc(100% + 10rem);
 		position: relative;
 		left: -5rem;
-	}
+	}*/
 } 
 
 
